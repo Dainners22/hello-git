@@ -1,1 +1,1 @@
-prompt(`hello git 3 `)
+prompt(`hello git 3 v2`)
